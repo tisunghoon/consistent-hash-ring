@@ -26,3 +26,5 @@ replay_pid*
 # Local agent instructions and work records
 /AGENT.md
 /context/
+.gradle/
+build/
